@@ -12,7 +12,7 @@ export default function Header() {
     <header className="mx-auto max-w-5xl w-full sticky top-0 z-50 h-12 px-6 flex items-center justify-between backdrop-blur-sm">
       <div>
         <Link href="/">
-          <h2 className={`${rubikDistressed.className} text-xl`}>CJ</h2>
+          <h2 className={`${rubikDistressed.className} text-xl`}>Jaimin</h2>
         </Link>
       </div>
       <div>
