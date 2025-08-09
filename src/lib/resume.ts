@@ -12,7 +12,7 @@ export const RESUME = {
     social: [
       {
         name: "X",
-        url: "https://x.com/jaimin_chovatia",
+        url: "https://x.com/jaimintwt",
         icon: RiTwitterXFill,
       },
       {
@@ -22,7 +22,7 @@ export const RESUME = {
       },
       {
         name: "LinkedIn",
-        url: "https://linkedin.com/in/jaimin-chovatia",
+        url: "https://linkedin.com/in/jaiminchovatia",
         icon: RiLinkedinFill,
       },
     ],
