@@ -10,11 +10,11 @@ export const RESUME = {
     email: "chovatiajaimin@gmail.com",
     // tel: "+1234567890",
     social: [
-      // {
-      //   name: "X",
-      //   url: "https://x.com/jaimintwt",
-      //   icon: RiTwitterXFill,
-      // },
+      {
+        name: "X",
+        url: "https://x.com/jaimintwt",
+        icon: RiTwitterXFill,
+      },
       {
         name: "GitHub",
         url: "https://github.com/jaimin25",
